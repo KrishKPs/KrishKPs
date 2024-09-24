@@ -1,19 +1,14 @@
-## Hi there 👋
+## Krish Vipulkumar Patel || California State University @Northridge
 
-<!--
-**KrishKPs/KrishKPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Saas Project
+- 🌱 I’m currently learning Python WebDevelopment
+- 👯 I’m looking to collaborate on Hackathon Teams
+- 🤔 I’m looking for help with AI Development
+- 💬 Ask me about: Software Development
+- 📫 How to reach me: kpskrishpatel@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 ## 🌐 Socials:
