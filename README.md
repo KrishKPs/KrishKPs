@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with AI Development
 - 💬 Ask me about: Software Development
 - 📫 How to reach me: kpskrishpatel@gmail.com
-- 🌐 My Portfolio Website: krishkp.tech
+- 🌐 My Portfolio Website: [krishkp.tech](https://krishkp.tech)
 
 
 
